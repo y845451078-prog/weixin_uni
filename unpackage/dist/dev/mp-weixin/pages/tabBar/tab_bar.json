@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "Home",
+  "usingComponents": {
+    "damn-page": "./damn/index",
+    "home-page": "./home/index",
+    "photo-page": "./photo/index",
+    "id-page": "./id/index",
+    "uni-segmented-control": "../../my_modules/uni-segmented-control/uni-segmented-control"
+  }
+}

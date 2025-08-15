@@ -1,6 +1,6 @@
 {
   "pages": [
-    "pages/index/index"
+    "pages/tabBar/tab_bar"
   ],
   "window": {
     "navigationBarTextStyle": "black",
